@@ -1,0 +1,8 @@
+baseURL = 'https://armaanmadanmohan.github.io'
+languageCode = 'en-gb'
+title = "Armaan's Blog"
+theme = "hugo-bearcub"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
