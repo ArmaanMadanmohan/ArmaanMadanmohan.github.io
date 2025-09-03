@@ -6,20 +6,20 @@
     <description>Recent content on Armaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 03 Sep 2025 15:11:02 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 16:03:38 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/posts/my_first_post/</link>
-      <pubDate>Wed, 03 Sep 2025 15:11:02 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my_first_post/</guid>
+      <title>Pre-ramble Preamble</title>
+      <link>http://localhost:1313/blog/my-first-post/</link>
+      <pubDate>Wed, 03 Sep 2025 16:03:38 +0100</pubDate>
+      <guid>http://localhost:1313/blog/my-first-post/</guid>
       <description>&lt;h3 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h3&gt;&#xA;&lt;p&gt;I had been meaning to create one for a while now, and I did so some time ago (which was not without its speed bumps navigating Hugo). However, it was only until recently that I began focusing my attention towards it, hence this post — hopefully the first of many. Aside from serving as the first cry of my blog, I would like to use this post to briefly outline my intentions moving forward with this website.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h3 id="welcome-to-my-blog">Welcome to my blog!</h3>
 <p>I had been meaning to create one for a while now, and I did so some time ago (which was not without its speed bumps navigating Hugo). However, it was only until recently that I began focusing my attention towards it, hence this post — hopefully the first of many. Aside from serving as the first cry of my blog, I would like to use this post to briefly outline my intentions moving forward with this website.</p>
-<p>Chiefly, I want to use it as a formal way of documenting my learning experiences within my personal projects as well as any interesting (mostly programming) concepts I come across outside of the same. You can imagine it as akin to a second brain in Obsidian. Writing down an interesting topic I may have: read about in a book or a blog; watched in a keynote or a conference; or even talked to a friend about. The key thing for me is distilling it into its key concepts and trying to explain it in my own words, as bumbling and inarticulate as they may be. I don&rsquo;t wish for any of my posts to be novel — most things aren&rsquo;t — but simply a log of my thoughts and workings.</p>
+<p>Chiefly, I want to use it as a formal way of documenting my learning experiences within my personal projects as well as any interesting (mostly programming) concepts I come across outside of the same. You can imagine it as akin to a second brain in Obsidian. Writing down an interesting topic I may have: read about in a book or a blog; listened to in a podcast, keynote, or conference; or even talked to a friend about. The key thing for me is distilling it into its key concepts and trying to explain it in my own words, as bumbling and inarticulate as they may be. I don&rsquo;t wish for any of my posts to be novel — most things aren&rsquo;t — but simply a log of my thoughts and workings.</p>
 <p>With that aside, while I direct my musings to an implicit <em>vous</em>, I would like to clarify that I am largely writing for myself in these posts. Naturally, that begs the question: &ldquo;Why do this at all, Armaan? Why make a public blog?&rdquo; A good question&hellip; with perhaps an unsatisfying answer — I think I just like sharing things.</p>
 <p>I had a lot of fun writing this, and hopefully this was a fun read. I plan to be consistent and timely with these posts, and I trust that the ride will be a long one.</p>
-<p>See you in the next,
+<p>See you in the next,<br>
 Armaan</p>
 ]]></content:encoded>
     </item>
